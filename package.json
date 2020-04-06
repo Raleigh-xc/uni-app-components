@@ -36,6 +36,7 @@
     "@dcloudio/uni-mp-toutiao": "^2.0.0-26820200330001",
     "@dcloudio/uni-mp-weixin": "^2.0.0-26820200330001",
     "@dcloudio/uni-stat": "^2.0.0-26820200330001",
+    "@dcloudio/uni-ui": "^1.1.9",
     "core-js": "^3.6.4",
     "flyio": "^0.6.2",
     "regenerator-runtime": "^0.12.1",
@@ -59,8 +60,11 @@
     "cross-env": "^7.0.2",
     "mini-types": "*",
     "miniprogram-api-typings": "^2.8.0-2",
+    "node-sass": "^4.13.1",
     "postcss-comment": "^2.0.0",
-    "vue-template-compiler": "^2.6.11"
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.42.1"
   },
   "browserslist": [
     "Android >= 4",
